@@ -1,0 +1,115 @@
+[[SoXResampler]]
+arch = "aarch64"
+git-tree-sha1 = "6aefe9ca86584c85e00d5f1b85c7378a37339883"
+libc = "glibc"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "2163c3e211406143855a01446004a6585b78244fc4b6f3c4b05e74b39e0f5535"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.aarch64-linux-gnu.tar.gz"
+[[SoXResampler]]
+arch = "aarch64"
+git-tree-sha1 = "4352379a2915a356b14e6460e9477f0c18119694"
+libc = "musl"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "7857c823a4deb4152ccca13b0fa547092db14c6208ff5841d953ea071268ebfe"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.aarch64-linux-musl.tar.gz"
+[[SoXResampler]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "04a2f64f2be22a5bea1bba38e498ec2a1fcd61ef"
+libc = "glibc"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "8e408cde6ada6d9f010d4242f841d3bfc79dfe1922f3251f845dd0e9c25a94a4"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.armv7l-linux-gnueabihf.tar.gz"
+[[SoXResampler]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44841a9aefda8e4d88c5e7dd3ec021bdb51e15a5"
+libc = "musl"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "2568df6d5fd4aa4f41eb46bb032032c1d8a8e9a216e78f08ad86f8dc6d1638ef"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.armv7l-linux-musleabihf.tar.gz"
+[[SoXResampler]]
+arch = "i686"
+git-tree-sha1 = "be594c036d8a72be127e643822feed1f7ffe88b3"
+libc = "glibc"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "f98d04501de79b73bc0cf89b0cfe33d581e822d2d129c9e9221a45cdfc302da9"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.i686-linux-gnu.tar.gz"
+[[SoXResampler]]
+arch = "i686"
+git-tree-sha1 = "1141d6e9b20449b7e52f8167fa178826f0767173"
+libc = "musl"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "d2f8cc789479de4c50c8f3bd18788ce2f38c0b3770672f54dfbd54a41c980e7e"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.i686-linux-musl.tar.gz"
+[[SoXResampler]]
+arch = "i686"
+git-tree-sha1 = "a8fe4c0e4982f7352bbc6b6c57fd194045737143"
+os = "windows"
+
+    [[SoXResampler.download]]
+    sha256 = "702cd23148d05bd6cda6c0ac5b217880c1c5c27815471fcbeb7950c017a9f9bd"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.i686-w64-mingw32.tar.gz"
+[[SoXResampler]]
+arch = "powerpc64le"
+git-tree-sha1 = "a6b7bcb5790359349e01ba02e0ce8d6569cad939"
+libc = "glibc"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "fe2066581a24339eedc006c8f0a922de603715b3242669a376b1c312ec6433ad"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.powerpc64le-linux-gnu.tar.gz"
+[[SoXResampler]]
+arch = "x86_64"
+git-tree-sha1 = "38a50f6ddf55c487a20f479407e4e323229459b4"
+os = "macos"
+
+    [[SoXResampler.download]]
+    sha256 = "57a7925d1245e4cbc5e66187045fbfbb1d62ecc25289afe6280b332b067770ca"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.x86_64-apple-darwin.tar.gz"
+[[SoXResampler]]
+arch = "x86_64"
+git-tree-sha1 = "72fd4a0552124593abd4d8e21e59bc0f20197f2a"
+libc = "glibc"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "e0c824f5fce5b3139d66f226ef15c2df671f07ff05bb9b96e92b37841e792944"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.x86_64-linux-gnu.tar.gz"
+[[SoXResampler]]
+arch = "x86_64"
+git-tree-sha1 = "b220c5ee8747c12d74ed6b38e840b759e3b48c53"
+libc = "musl"
+os = "linux"
+
+    [[SoXResampler.download]]
+    sha256 = "d1df3a3d7429c84483e2a6ab0b57159485a19ab49ba60cc5b5377a244d887f2a"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.x86_64-linux-musl.tar.gz"
+[[SoXResampler]]
+arch = "x86_64"
+git-tree-sha1 = "31ad7d7d8b978391524ceef0866b3c0d0db7650f"
+os = "freebsd"
+
+    [[SoXResampler.download]]
+    sha256 = "1faebe39ae84d4a9691d1e22e0d341040d13f2fb7e71cf33c953421a82df3373"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.x86_64-unknown-freebsd.tar.gz"
+[[SoXResampler]]
+arch = "x86_64"
+git-tree-sha1 = "bfc8cf77fa5e2023d89c9b3d9a2790ab51190366"
+os = "windows"
+
+    [[SoXResampler.download]]
+    sha256 = "d1adf112b5d220a20e2f1512cc56de0a7664cdd58ec90913111b7d192818ae8b"
+    url = "https://github.com/JuliaBinaryWrappers/SoXResampler_jll.jl/releases/download/SoXResampler-v0.1.3+0/SoXResampler.v0.1.3.x86_64-w64-mingw32.tar.gz"
